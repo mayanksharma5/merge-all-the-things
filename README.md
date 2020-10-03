@@ -13,6 +13,7 @@ Want your free shirt from Hacktoberfest? Real projects are too hard to contribut
 7. @eriksape
 9. @deprecated
 10. @AyrtonCossuol
+11. @mayanksharma5(https://github.com/mayanksharma5)
 
 ## FAQ
 - Q: How many contributions can I make? A: Unlimited contributions.
